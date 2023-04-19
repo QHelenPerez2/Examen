@@ -1,0 +1,40 @@
+
+
+body {
+  background-image: url("/imagen/Fondo.jpg");
+}
+
+.S1 {
+  width: 400px;
+  padding: 30px;
+  margin: auto;
+  margin-top: 180px;
+  border-radius: 7px;
+  color: rgb(25, 22, 228);
+  background: #69c74f73;
+}
+
+.S1 h4 {
+  font-size: 30px;
+  margin-left: 35%;
+  margin-bottom: 20px;
+}
+
+.contenedor {
+  width: 100%;
+  font-size: 15px;
+  background: #59f394;
+  border: 1px solid #2619e2;
+  padding: 15px;
+  border-radius: 7px;
+  margin-bottom: 20px;
+}
+
+.boton{
+  background-color: rgb(0, 0, 255);
+  color: aliceblue;
+  width: 100px;
+  height: 30px;
+  margin-left: 40%;
+}
+
